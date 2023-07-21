@@ -14202,6 +14202,37 @@ a {
 .cid-tG8yJJy9Ba .mbr-text {
   text-align: center;
 }
+.cid-tG8yJJy9Ba .mbr-text {
+  color: #bbbbbb;
+}
+.cid-tKCDmcdzmg {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
+}
+.cid-tKCDmcdzmg .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tKCDmcdzmg .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tKCDmcdzmg .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tKCDmcdzmg .mbr-section-title,
+.cid-tKCDmcdzmg .mbr-section-subtitle,
+.cid-tKCDmcdzmg .mbr-text {
+  text-align: center;
+}
+.cid-tKCDmcdzmg .mbr-text {
+  color: #bbbbbb;
+}
 .cid-tG8yJK8ryN {
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -14278,6 +14309,69 @@ a {
 }
 .cid-tG8yJLWAw3 img {
   width: 100%;
+}
+.cid-tKCGOcx3uM {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #232323;
+}
+.cid-tKCGOcx3uM .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tKCGOcx3uM .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tKCGOcx3uM .nav-tabs .nav-item.open .nav-link:focus,
+.cid-tKCGOcx3uM .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-tKCGOcx3uM .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #6592e6;
+}
+@media (max-width: 767px) {
+  .cid-tKCGOcx3uM .nav-item {
+    width: 100%;
+    margin: 0;
+  }
+}
+.cid-tKCGOcx3uM .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0 !important;
+}
+.cid-tKCGOcx3uM .nav-tabs .nav-link:not(.active) {
+  color: #ffffff;
+}
+.cid-tKCGOcx3uM .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-tKCGOcx3uM .nav-link,
+.cid-tKCGOcx3uM .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-tKCGOcx3uM .nav-tabs .nav-link.active {
+  color: #6592e6;
+  border-bottom: 3px solid #6592e6;
+}
+.cid-tKCGOcx3uM H4 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tKCGOcx3uM H3 {
+  text-align: center;
+  color: #c37a7a;
+}
+.cid-tKCGOcx3uM P {
+  color: #bbbbbb;
 }
 .cid-tGcbr0SpZb {
   padding-top: 3rem;
