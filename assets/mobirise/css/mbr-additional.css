@@ -43584,6 +43584,51 @@ a {
 .cid-tGdEqAoSnJ P {
   color: #bbbbbb;
 }
+.cid-tVbG1Q1mqi {
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
+}
+.cid-tVbG1Q1mqi .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tVbG1Q1mqi .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tVbG1Q1mqi .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-tVbG1Q1mqi .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-tVbG1Q1mqi .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #6592e6;
+}
+.cid-tVbG1Q1mqi .panel-body,
+.cid-tVbG1Q1mqi .card-header {
+  padding: 1rem 0;
+}
+.cid-tVbG1Q1mqi .panel-title-edit {
+  color: #ffffff;
+}
+.cid-tVbG1Q1mqi H4 {
+  color: #ffffff;
+}
+.cid-tVbG1Q1mqi .panel-text {
+  color: #bbbbbb;
+}
 .cid-tGdEqAQFqh {
   padding-top: 30px;
   padding-bottom: 30px;
